@@ -1,4 +1,4 @@
-# getting-started-with-EC2
+# Getting-started-with-EC2
 At first make an account on AWS(Amazon Web Services).
 
 # Launch an Instance 
