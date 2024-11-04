@@ -58,6 +58,11 @@ Subnetting is the process of dividing a large network into smaller networks call
 # CNI (Container Network Interface)
 A CNI plugin is responsible for inserting a network interface into the container network namespace (e.g., one end of a virtual ethernet (veth) pair) and making any necessary changes on the host(e.g., attaching the other end of the veth into a bridge). CNI is used by container runtimes, such as Kubernetes, as well as Podman, CRI-O, Mesos, and others.
 
+# OVS (Open Virtual Switch)
+
+![image](https://github.com/user-attachments/assets/774abe01-0d60-47b2-b3f4-229dd545ae8e)
+
+Open vSwitch is a powerful tool for building scalable and flexible networking solutions in virtualized and cloud environments. Its support for SDN and various network management protocols makes it a preferred choice for modern networking challenges. 
 
 
 
