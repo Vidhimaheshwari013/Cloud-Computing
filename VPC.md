@@ -76,5 +76,5 @@ A VPC is essential for enhancing security, control, and flexibility in your clou
   htop
   ```
 
-  ![Screenshot_2024_1104_183758](https://github.com/user-attachments/assets/bae13bf3-7e99-4944-86fb-156efc303382)
+
 
