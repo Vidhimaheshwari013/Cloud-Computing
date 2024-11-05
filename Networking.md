@@ -64,9 +64,21 @@ A CNI plugin is responsible for inserting a network interface into the container
 
 Open vSwitch is a powerful tool for building scalable and flexible networking solutions in virtualized and cloud environments. Its support for SDN and various network management protocols makes it a preferred choice for modern networking challenges. 
 
+# Route Table 
+ A Route Table is a set of rules, called routes, that determines the path network traffic takes within a Virtual Private Cloud (VPC) or a network. In cloud environments, route tables are used to define how data flows between subnets, the internet, and external networks. By controlling these routes, you can specify where traffic from each subnet should be directed, such as to an Internet Gateway, Virtual Private Gateway, or other subnets.
+
+# Internet Gateway 
+An Internet Gateway (IGW) is a cloud networking component that allows resources within a Virtual Private Cloud (VPC) to access the internet and be accessible from the internet. It provides a path for traffic between the internet and the VPC, enabling inbound and outbound communication. The Internet Gateway is essential for connecting public-facing resources, such as web servers, to external users.
+
+# Virtual private Gateway 
+It can be a physical or software appliance. The anchor on the AWS side of the VPN connection is called a virtual 
+private gateway. The following diagram shows your network, the customer gateway, the VPN connection that goes to 
+the virtual private gateway, and the VPC.
 
 
-
+# Elastic Load balancer 
+Elastic Load Balancing (ELB) is a load-balancing service for Amazon Web Services (AWS) deployments. ELB automatically 
+distributes incoming application traffic and scales resources to meet traffic demands.
 
 
 
