@@ -7,9 +7,7 @@ A VPC is essential for enhancing security, control, and flexibility in your clou
 # Uses of a VPC
 **1. Hosting Web Applications**
 
-**2. Hosting Web Applications**
-
-**3. Disaster Recovery**
+**2. Disaster Recovery**
 
 
 
